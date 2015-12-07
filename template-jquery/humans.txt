@@ -1,0 +1,12 @@
+/* TEAM */
+	Chef:Jhonatan Laguna
+	Contact: jhonlpdev [at] gmail.com
+	Twitter: @lagunajs
+	From:Empalme, Sonora, México
+
+
+/* SITE */
+	Last update:2015/12/04
+	Language: Español
+	Doctype:HTML5
+	IDE: Atom, Git, Photoshop
